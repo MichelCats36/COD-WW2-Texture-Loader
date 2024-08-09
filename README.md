@@ -1,3 +1,6 @@
+https://github.com/MichelCats36/COD-WW2-Texture-Loader/
+
+
 # COD-WW2-Texture-Loader
 The "Texture Loader Add-on" is a powerful tool designed for Blender, specifically aimed at helping you manage materials and textures in your 3D projects. If you're working on complex scenes with lots of materials and textures—like game assets, architectural models, or detailed environments—this add-on can save you a lot of time and hassle.
 
@@ -36,20 +39,22 @@ To use this add-on effectively, you will need the following external programs, w
 # Grayhound
 
 Description: Grayhound is a powerful tool used for extracting and managing assets.
-Download Link: Grayhound on GitHub https://github.com/Scobalula
+Download Link: Grayhound on GitHub
 Credits: Developed by Scobalula.
 
-# C2M v2
-
-Description: C2M v2 is the latest version of the C2M tool, offering additional features and improvements.
-Download Link: C2M v2 on GitHub https://github.com/sheilan102
-Credits: Developed by sheilan102.
 
 # C2M v1
 
 Description: C2M v1 is used for converting and managing texture files.
-Download Link: C2M v1 on GitHub https://github.com/vugi99
+Download Link: C2M v1 on GitHub
 Credits: Developed by sheilan102, updated and maintained by vugi99.
+
+
+# C2M v2
+
+Description: C2M v2 is the latest version of the C2M tool, offering additional features and improvements.
+Download Link: C2M v2 on GitHub
+Credits: Developed by sheilan102.
 
 
 # Credits/Contributors
