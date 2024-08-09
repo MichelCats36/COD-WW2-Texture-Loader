@@ -36,22 +36,20 @@ To use this add-on effectively, you will need the following external programs, w
 # Grayhound
 
 Description: Grayhound is a powerful tool used for extracting and managing assets.
-Download Link: Grayhound on GitHub
+Download Link: Grayhound on GitHub https://github.com/Scobalula
 Credits: Developed by Scobalula.
-
-
-# C2M v1
-
-Description: C2M v1 is used for converting and managing texture files.
-Download Link: C2M v1 on GitHub
-Credits: Developed by sheilan102, updated and maintained by vugi99.
-
 
 # C2M v2
 
 Description: C2M v2 is the latest version of the C2M tool, offering additional features and improvements.
-Download Link: C2M v2 on GitHub
+Download Link: C2M v2 on GitHub https://github.com/sheilan102
 Credits: Developed by sheilan102.
+
+# C2M v1
+
+Description: C2M v1 is used for converting and managing texture files.
+Download Link: C2M v1 on GitHub https://github.com/vugi99
+Credits: Developed by sheilan102, updated and maintained by vugi99.
 
 
 # Credits/Contributors
